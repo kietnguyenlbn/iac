@@ -1,0 +1,5 @@
+subnet_name,subnet_prefix
+subnet1,192.168.1.0/28
+subnet2,192.168.1.16/28
+subnet3,192.168.1.32/28
+subnet4,192.168.1.48/28
